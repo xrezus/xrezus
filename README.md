@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light]([github-snake.svg#](https://raw.githubusercontent.com/xrezus/platane/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 
 <!--
 **xrezus/xrezus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
