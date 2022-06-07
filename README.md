@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/xrezus/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/xrezus/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <!--
 **xrezus/xrezus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
